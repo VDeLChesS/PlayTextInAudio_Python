@@ -30,13 +30,15 @@ The following Python libraries are required:
 
 7) You can install all dependencies using:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ee403119-6239-4ac6-8242-0564a881dbbf)
+
 
 8) Configuration
 
 Update the following variables in the Python script with your AWS credentials:
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/d4fae579-689f-4a9c-a0b0-24510115491b)
+
 
 9) Usage
 
@@ -48,4 +50,4 @@ Update the following variables in the Python script with your AWS credentials:
 
 10) How to Run
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/2fb3defd-a803-474e-a2b0-8f9a0931d6a7)
