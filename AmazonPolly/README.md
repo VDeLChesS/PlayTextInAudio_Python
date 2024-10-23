@@ -33,13 +33,15 @@ The following Python libraries are required:
 
 You can install all dependencies using:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ea305f84-7bb7-407b-b9a5-800f4506ae19)
+
 
 5) Configuration
 
 Update the following variables in the Python script with your Azure credentials:
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/9c0788d8-729a-4dfe-a3ea-e21f71ca6573)
+
 
 6) Usage
 
@@ -51,4 +53,4 @@ Update the following variables in the Python script with your Azure credentials:
 
 7) How to Run
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/4f819143-71bf-4351-b5e2-898c0654a82c)
